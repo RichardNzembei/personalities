@@ -8,7 +8,7 @@
         <img class="w-12 h-12" src="../assets/sms.png" alt="" />
       </div>
       <div class="text-xl font-medium text-black">
-        <p class="text-slate-500">hello there friends</p>
+        <p class="text-slate-500">hello there friends lets meet</p>
       </div>
     </div>
   </div>
